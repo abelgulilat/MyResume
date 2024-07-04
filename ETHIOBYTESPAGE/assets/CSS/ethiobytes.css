@@ -1,0 +1,19 @@
+*{
+  padding: 0;margin: 0;
+}
+
+.img1{
+  border-radius: 100px;
+}
+
+.one,.uppermid3,.uppermid4{
+  background-color: #585ED0;
+}
+
+.three,.four{
+  margin-left: 12%;
+}
+
+/* .uppermid4{
+    padding-left: 150px;
+} */

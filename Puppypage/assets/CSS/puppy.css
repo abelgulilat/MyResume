@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.puppylover{ 
+    background-color: rgba(72, 72, 212, 0.822);
+    color: white; 
+}
+.puppy .alpha{
+    font-size: 4vw;
+}
+.puppy .puppyupper .alpha{
+    background-color: brown;
+}
+
+footer{
+    background-color: rgba(72, 72, 212, 0.822);
+    color: white;
+}

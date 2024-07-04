@@ -1,0 +1,116 @@
+*{
+  padding: 0;margin: 0;
+}
+
+.macbookair{
+  height: 600px;
+  width: 100%;
+  background-image: url(../IMG/macairbook.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 600px;
+
+
+}
+.pro{
+  height: 600px;
+  width: 100%;
+  background-image: url(../IMG/iPhone15Pro.png);
+  background-repeat: no-repeat;
+  background-size: 100% 600px;
+  
+
+}
+.iphone{
+  height: 600px;
+  width: 100%;
+  background-image: url(../IMG/hero_iphone15_announce__uuemlcwczn6u_small.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 600px;
+  
+
+}
+.tv1{ 
+  height: 500px;
+    
+  background-image: url(../IMG/img4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 500px;
+  padding-top: 350px;
+} 
+
+.tv2{
+  height: 500px;
+  
+  background-image: url(../IMG/img5.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 500px;
+  padding-top: 350px;
+
+}
+.phone1{
+  height: 400px;
+  
+  background-image: url(../IMG/img6.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  padding-top: 20px;
+
+}
+
+.phone2{
+  height: 400px;
+  
+  background-image: url(../IMG/img7.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  padding-top: 50px;
+
+}
+
+.cards1{
+  height: 400px;
+  
+  background-image: url(../IMG/watch11.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  padding-top: 10px;
+
+}
+
+.cards2{
+  height: 400px;
+  
+  background-image: url(../IMG/card.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  padding-top: 20px;
+
+}
+
+
+footer{
+  background-color: #F5F5F7;
+}
+footer .foot a,
+.lastdiv a{
+  text-decoration: none;
+  color: #AEAEAF;
+}
+footer p{
+  color: #3A3A3B;
+}
+footer a:hover{
+  text-decoration: underline;
+}
+.link1 {
+  background-color: #0077ED;
+}
+.link2{
+  background-color: white;
+}
+section  .link2:hover{
+  background-color: #0077ed;
+  color: white;
+}
+
+
